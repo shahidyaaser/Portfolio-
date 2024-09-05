@@ -399,6 +399,10 @@ for mor
 	max-height: 40px;
 	opacity: 1;
   }
+
+.list{
+	text-decoration:none;
+}
   
 
   @media screen and (max-width:30px) {
