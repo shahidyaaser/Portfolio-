@@ -4,6 +4,9 @@
 	font-family: 'Josefin Sans', sans-serif;
 	box-sizing: border-box;
 }
+body{
+	
+}
 .hero{
 	height: 130vh;
 	width: 100%;
@@ -108,7 +111,7 @@ h4{
 .about{
 	width: 100%;
 	padding: 100px 0px;
-	background-color: #191919;
+	background-color: #000000;
 }
 .about img{
 	height: auto;
@@ -400,8 +403,16 @@ for mor
 	opacity: 1;
   }
 
-.list{
-	text-decoration:none;
+.pra .list{
+	list-style: none;
+	text-align: left;
+}
+
+#hellow2{
+	display: flex;
+	flex-direction: column;
+	/* justify-content: center; */
+	align-items: center;
 }
   
 
